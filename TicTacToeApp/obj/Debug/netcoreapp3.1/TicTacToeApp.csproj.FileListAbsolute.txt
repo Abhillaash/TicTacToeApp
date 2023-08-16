@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.exe
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.deps.json
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.dll
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.pdb
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.dll
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.pdb
+C:\Users\Lenovo\Downloads\Monocept\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.genruntimeconfig.cache
